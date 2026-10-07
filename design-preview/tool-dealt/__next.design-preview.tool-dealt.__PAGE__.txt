@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[31367,["/plo-trainer/_next/static/chunks/1g2tut6i7w1xb.js","/plo-trainer/_next/static/chunks/14mrh2-p_w84d.js","/plo-trainer/_next/static/chunks/2ju9p5_d98ii8.js"],"ToolApp"]
+3:I[97367,["/plo-trainer/_next/static/chunks/1g2tut6i7w1xb.js","/plo-trainer/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"seed":{"playerCount":4,"variant":4,"doubleBoard":true,"ante":6,"hands":[[50,46,20,1],[43,41,27,6],[36,33,31,18],[26,25,12,11]],"boards":[[45,30,8,3,null],[22,17,4,35,null]],"betFraction":0.5}}],[["$","script","script-0",{"src":"/plo-trainer/_next/static/chunks/2ju9p5_d98ii8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0mXWsX_zxJJyCmeYzbRcZ"}
+5:null
